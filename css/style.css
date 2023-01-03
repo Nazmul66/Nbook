@@ -80,9 +80,6 @@ header{
 .navbar-nav{
    margin-right: 30px;
 }
-.navbar-nav .nav-item{
-
-}
 .navbar-nav .nav-item .active{
   color: #fff !important;
   background: #0096ff;
@@ -184,9 +181,6 @@ header{
 }
 .another-content{
      padding: 25px 0;
-}
-.icons{
-
 }
 .icons i{
 	text-align: center;
@@ -805,9 +799,6 @@ background: #fff;
   padding: 0 0 20px 0px;
   background: #fff;
 }
-.btn-hash{
-
-}
 .btn-hash p{
     font-size: 14px;
     margin: 0;
@@ -838,9 +829,6 @@ background: #fff;
   font-size: 16px;
 }
 
-.blog-content2 {
-
-}
 .blog-content2 h2{
     background: #fff;
     margin: 0;
@@ -932,9 +920,6 @@ background: #fff;
 }
 .atlas2 p .fa-angle-right{
   margin-left: 3px; 
-}
-.social-list3{
-
 }
 .social-list3 ul{
   padding: 0;
