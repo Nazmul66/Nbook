@@ -1141,12 +1141,10 @@ background: #fff;
 }
 
 
-
-/*  Responsive for notepad version  */ 
-
-
 /*  Responsive for tablet version  */ 
 @media (min-width: 577px) and (max-width: 768px){
+
+.fa-arrow-up {bottom: 25px; right: 20px; font-size: 16px; width: 42px; height: 42px; line-height: 42px;}
 
 header {padding: 10px 0;}
 .navbar-nav { margin-top: 30px; margin-right: 0;}
@@ -1254,6 +1252,8 @@ footer img { width: 170px;}
 
 /*  Responsive for mobile version  */ 
 @media (min-width: 320px) and (max-width: 576px){
+
+.fa-arrow-up {bottom: 20px; right: 15px; font-size: 16px; width: 40px; height: 40px; line-height: 40px;}
   
 header {padding: 10px 0;}
 .navbar-nav { margin-top: 30px; margin-right: 0;}
